@@ -1,0 +1,24 @@
+{
+  "name": "q-source",
+  "version": "1.0.0",
+  "description": "source for quynhergy website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quynhergy/q-source.git"
+  },
+  "author": "quynhergy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quynhergy/q-source/issues"
+  },
+  "homepage": "https://github.com/quynhergy/q-source#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
