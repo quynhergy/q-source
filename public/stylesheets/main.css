@@ -1,0 +1,63 @@
+.navbar {
+	background-color: #C5B7A7;
+	height: 60px;
+}
+
+.navbar-brand {
+	color: #FFFFFF;
+}
+
+.jumbotron {
+	background-color: #FFFFFF;
+	text-align: center;
+	padding: 24px;
+	margin: 60px 0 0 0;
+	height: 280px;
+}
+
+.about-me-btn {
+	background-color: #C5B7A7;
+	color: #FFFFFF; 
+}
+
+.item-box {
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;  /* TWEENER - IE 10 */
+  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+	color: #FFFFFF;
+	height: 300px;
+}
+
+.item {
+	display: block;
+}
+
+img {
+	height: 160px;
+	width: 160px;
+	padding-bottom: 10px;
+	padding-top: 10px
+
+}
+
+.color1 {
+	background-color: #DCCDEE;
+}
+
+.color2 {
+	background-color: #EFD3D4;
+}
+
+.color3 {
+	background-color: #9FB7D0;
+}
+
+.color4 {
+	background-color: #C1CFC5;
+}
