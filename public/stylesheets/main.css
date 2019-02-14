@@ -1,5 +1,6 @@
 body {
 	font-family: 'Work Sans', sans-serif;
+	color: #625b53;
 }
 
 .navbar {
@@ -9,6 +10,11 @@ body {
 
 .navbar-brand {
 	color: #FFFFFF;
+}
+
+.navbar-brand:hover {
+	color: #FFFFFF;
+	text-decoration: none;
 }
 
 .jumbotron {
