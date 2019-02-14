@@ -23,6 +23,12 @@ body {
 	color: #FFFFFF; 
 }
 
+.about-me-btn:hover {
+    color: #FFFFFF;
+    background-color: #b1a496;
+    text-decoration: none;
+}
+
 .item-box {
 	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
   display: -ms-flexbox;  /* TWEENER - IE 10 */
