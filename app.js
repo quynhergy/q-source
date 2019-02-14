@@ -11,7 +11,11 @@ app.get("/", function(req,res){
 
 app.get("/under-construction", function(req,res){
 	res.render('under-construction');
-})
+});
+
+app.get("/about-me", function(req,res){
+	res.render('about-me');
+});
 
 var port = process.env.PORT || 3000;
 
